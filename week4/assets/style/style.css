@@ -1,0 +1,218 @@
+.samwayle{
+    font-family: 'Cedarville Cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 55px;
+    right: 0px;
+    top: -56px;
+    bottom: 0px;
+}
+.aboutusnav{
+    position: relative;
+    width: 60px;
+    height: 16px;
+    left: 644px;
+    top: -100px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: justify;
+    color: #000000;
+    text-decoration: none;
+}
+.promotionnav{
+    position: relative;
+    width: 60px;
+    height: 16px;
+    left: 670px;
+    top: -100px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: justify;
+    color: #000000;
+    text-decoration: none;
+}
+.shop{
+    position: relative;
+    width: 60px;
+    height: 16px;
+    left: 690px;
+    top: -100px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: justify;
+    color: #000000;
+    text-decoration: none;
+}
+.contactsnav{
+    position: relative;
+    width: 60px;
+    height: 16px;
+    left: 710px;
+    top: -100px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: justify;
+    color: #000000;
+    text-decoration: none;
+}
+.contactsusnav{
+    position: relative;
+    width: 60px;
+    height: 16px;
+    left: 730px;
+    top: -100px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: justify;
+    color: #000000;
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #2D635E;
+}
+.drinkcoffee{
+    position: absolute;
+    width: 414px;
+    height: 200px;
+    left: 85px;
+    top: 170px;
+    font-family: 'Cedarville Cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 53px;
+    color: #444A4A;
+}
+h1{
+    position: absolute;
+    width: 414px;
+    height: 200px;
+    left: 80px;
+    top: 230px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 63px;
+    line-height: 63px;
+    color: #000000;
+}
+.orderhere{
+    position: relative;
+    left: 80px;
+    right: 0%;
+    top: 200px;
+    bottom: 40%;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #2D635E;
+}
+.arrow{
+    position: relative;
+    width: 30px;
+    height: 7px;
+    left: 746px;
+    top: -50px;
+}
+.backgroundarrow{
+    position: relative;
+    width: 159px;
+    height: 157px;
+    left: 650px;
+    top: 0px;
+    background: #E3EBE7;
+    opacity: 0.4;
+}
+.backgroundgrinder{
+    position: absolute;
+    width: 410px;
+    height: 466px;
+    left: 838px;
+    top: 104px;
+}
+.grinder{
+    position: relative;
+    width: 344px;
+    height: 373px;
+    left: 650px;
+    top: 50px;
+}
+.coffee{
+    position: relative;
+    width: 200px;
+    height: 137px;
+    left: 950px;
+    top: -210px;
+    font-family: 'Cedarville Cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 137px;
+    display: flex;
+    align-items: center;
+    color: #444A4A;
+}
+.follow{
+    position: absolute;
+    width: 109px;
+    height: 28px;
+    left: 1292px;
+    top: 595px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 28px;
+    color: #444A4A;
+    transform: rotate(-90deg);
+}
+.aboutus{
+    font-family: 'Cedarville Cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 53px;
+    opacity: 0.75;
+    transform: rotate(-90deg);
+    position: absolute;
+    width: 116px;
+    height: 100px;
+    left: 106px;
+    top: 881px;
+}
+.promotion{
+    font-family: 'Cedarville Cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 53px;
+    opacity: 0.75;
+    transform: rotate(-90deg);
+}

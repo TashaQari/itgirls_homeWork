@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Котоанкета</h1>
+    <form>
+    <fieldset>
+    <div>
+        <label for="petname">Кличка питомца</label>
+        <input type="text" id="petname"/> <br/>
+    </div>
+    <div>
+        <br><label for="name">Имя владельца</label> 
+        <input type="text" id="name"/>
+    </div> 
+    <div>
+        <br><label for="contacts">Контакты владельца</label>
+        <input type="text" id="contacts"/>
+    </div> 
+    </fieldset>
+    <div>
+        <br><select> 
+            <option value="#" hidden>Выберите породу вашего котика</option>
+            <option value="1">Шотландская вислоухая</option>
+            <option value="2">Британская</option>
+            <option value="3">Канадский сфинкс</option>
+            <option value="4">Русская голубая</option>
+            <option value="5">Сиамская</option>
+            <option value="6">Абиссинская</option>
+            <option value="7">Метис</option>
+        </select><br/>
+    </div>
+    <div>
+        <br><label for="eat">Какой вид питания у вашего котика?</label><br/>
+        <br><input type="checkbox" id="eat"/>Сухой корм<br/><input type="checkbox"/>Влажный корм<br><input type="checkbox"/>Натуральный корм<br/>
+    </div>
+    <div>
+        <br><label for="sex">Пол питомца:</label> <br/>
+        <br> <input type="radio" name="sex" id="sex"/>cамка<br/> <input type="radio" name="sex"/>cамец<br/>
+    </div>
+    <div>
+        <br> <label for="about">Расскажите забавный факт про вашего котика:</label><br/>
+        <br><textarea rows="5" id="about"></textarea><br/>
+    </div>
+    <div>
+        <label for="picture">Добавьте фото вашего котика:</label> <br/>
+        <input type="file" id="picture">
+    </div>
+    <br><div><button>Сохранить</button></div><br/>
+</form>
+</body>
+</html>
