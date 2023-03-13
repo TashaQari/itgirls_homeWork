@@ -17,7 +17,7 @@ main{
     flex-direction: row;
 }
 .content{
-    padding: 40px;
+    padding: 35px;
     padding-top: 30px;
     flex-basis: 65%;
     display: flex;
@@ -37,14 +37,14 @@ main{
 }
 .box_two{
     background-color: bisque;
-    flex-basis: 45%;
+    flex-basis: 47%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .box_three{
     background-color: bisque;
-    flex-basis: 45%;
+    flex-basis: 47%;
     display: flex;
     align-items: center;
     justify-content: center;
