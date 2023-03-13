@@ -17,7 +17,7 @@ main{
     flex-direction: row;
 }
 .content{
-    padding: 60px;
+    padding: 40px;
     padding-top: 30px;
     flex-basis: 65%;
     display: flex;
