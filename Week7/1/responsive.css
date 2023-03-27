@@ -1,0 +1,78 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-size: 25px;
+    min-width: 100vh;
+}
+header{
+    flex-basis: 10%;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+}
+.content{
+    padding: 35px;
+    padding-top: 30px;
+    flex-basis: 65%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 228, 196, 0.659);
+}
+.box_one{
+    flex-basis: 40%;
+    display: flex;
+    justify-content: center;
+}
+.wrapper_box{
+    display: flex;
+    flex-basis: 30%;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.box_two{
+    background-color: bisque;
+    flex-basis: 47%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box_three{
+    background-color: bisque;
+    flex-basis: 47%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box_four{
+    display: flex;
+    flex-basis: 30%;
+    background-color: bisque;
+    align-items: center;
+    justify-content: center;
+}
+aside{
+    padding-top: 20px;
+    background-color: rgba(200, 244, 229, 0.711);
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    flex-basis: 20%;
+    background-color: rgb(241, 241, 241);
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+}
+.footer-box{
+    background-color: white;
+    padding: 60px;
+}
